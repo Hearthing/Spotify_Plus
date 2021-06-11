@@ -21,4 +21,4 @@ export default function useAuth(code) {
         window.location = "/"
       })
   }, [code])
-}
+} 
